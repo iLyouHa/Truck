@@ -1,0 +1,22 @@
+Truck_app/
+  index.html
+  package.json
+  tsconfig.json
+  vite.config.ts
+  opencode.json
+  src/
+    main.tsx
+    App.jsx
+    types.ts
+    styles.css
+    data/
+      equipmentCatalog.ts
+    components/
+      Scene3D.tsx
+      Sidebar.tsx
+      EquipmentCatalog.tsx
+    hooks/
+      useTruckLoader.ts
+    utils/
+      binPacking.ts
+      helpers.ts

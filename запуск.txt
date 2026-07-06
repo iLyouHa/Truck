@@ -1,0 +1,3 @@
+cd O:\Truck_app1
+npm install --legacy-peer-deps
+npm run dev
